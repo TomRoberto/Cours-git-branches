@@ -8,7 +8,7 @@ function App() {
       <main style={{ backgroundColor: "blue" }}>
         <p>Je suis une Balise P</p>
         <div style={{ backgroundColor: "yellow" }}>Je suis la Nav</div>
-        <span>Span</span>
+        <span>Span Coucou</span>
       </main>
     </>
   );
