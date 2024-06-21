@@ -9,6 +9,7 @@ function App() {
         <p>Je suis une Balise P</p>
         <div style={{ backgroundColor: "yellow" }}>Je suis la Nav</div>
         <span>Span Coucou</span>
+        <span>Hello world</span>
       </main>
     </>
   );
