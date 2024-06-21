@@ -7,7 +7,7 @@ function App() {
       <Header />
       <main style={{ backgroundColor: "blue" }}>
         <p>Je suis une Balise P</p>
-        <nav style={{ backgroundColor: "purple" }}>Je suis la Nav</nav>
+        <div style={{ backgroundColor: "yellow" }}>Je suis la Nav</div>
       </main>
     </>
   );
