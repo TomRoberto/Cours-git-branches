@@ -7,6 +7,9 @@ function App() {
       <Header />
       <main style={{ backgroundColor: "blue" }}>
         <p>Je suis une Balise P</p>
+        <div style={{ backgroundColor: "yellow" }}>
+          Div ajoutée sur tom-branch
+        </div>
       </main>
     </>
   );
