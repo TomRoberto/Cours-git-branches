@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <footer style={{ background: "salmon", padding: "20px" }}>
-      Salut les gens
+      Hello je suis une modif depuis bastien-branch, Salut les gens
     </footer>
   );
 };
