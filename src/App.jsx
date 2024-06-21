@@ -5,6 +5,9 @@ function App() {
   return (
     <>
       <Header />
+      <main style={{ backgroundColor: "blue" }}>
+        <p>Je suis une Balise P</p>
+      </main>
     </>
   );
 }
